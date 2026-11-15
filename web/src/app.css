@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Site header. The brand reads like a Costa Rican license plate and sits on a road line. */
+@layer components {
+  .kpe-header {
+    --plate-blue: #1b3f8f;
+    --lane-yellow: #f2b705;
+    --asphalt: #2b2f36;
+    background: #fafaf7;
+  }
+
+  .kpe-plate {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: stretch;
+    overflow: hidden;
+    background: #ffffff;
+    color: var(--plate-blue);
+    border: 3px solid var(--plate-blue);
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 2px #ffffff, inset 0 0 0 3px rgb(27 63 143 / 0.25), 0 2px 0 rgb(43 47 54 / 0.18);
+    text-decoration: none;
+    transition: transform 0.15s ease;
+  }
+
+  .kpe-plate:hover {
+    transform: translateY(-1px);
+  }
+
+  .kpe-plate:focus-visible {
+    outline: 3px solid var(--lane-yellow);
+    outline-offset: 3px;
+  }
+
+  .kpe-plate-band {
+    background: var(--plate-blue);
+    color: #ffffff;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.32em;
+    line-height: 1.5;
+    padding: 0.05rem 0 0.05rem 0.32em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .kpe-plate-name {
+    font-family: "Avenir Next Condensed", "Roboto Condensed", "Arial Narrow", "Helvetica Neue", sans-serif;
+    font-stretch: condensed;
+    font-weight: 800;
+    font-size: clamp(1.05rem, 2.7vw, 1.75rem);
+    letter-spacing: 0.06em;
+    line-height: 1.1;
+    padding: 0.3rem 1rem 0.4rem;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  /* Navigation links look like yellow lane signs; Salir stays quiet */
+  .kpe-nav a {
+    background: var(--lane-yellow);
+    border: 2px solid transparent;
+    border-radius: 6px;
+    color: var(--asphalt);
+    font-size: 0.9rem;
+    font-weight: 700;
+    padding: 0.35rem 0.8rem;
+  }
+
+  .kpe-nav a:hover {
+    background: #ffc928;
+  }
+
+  .kpe-nav button {
+    background: transparent;
+    border: 2px solid rgb(43 47 54 / 0.35);
+    border-radius: 6px;
+    color: var(--asphalt);
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.35rem 0.8rem;
+  }
+
+  .kpe-nav button:hover {
+    border-color: var(--asphalt);
+  }
+
+  .kpe-nav a:focus-visible,
+  .kpe-nav button:focus-visible {
+    outline: 2px solid var(--plate-blue);
+    outline-offset: 2px;
+  }
+
+  .kpe-nav a[aria-current="page"] {
+    border-color: var(--asphalt);
+  }
+
+  .kpe-road {
+    height: 6px;
+    background: repeating-linear-gradient(90deg, var(--lane-yellow) 0 28px, transparent 28px 48px) center / auto 2px no-repeat,
+      var(--asphalt);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .kpe-plate {
+      transition: none;
+    }
+
+    .kpe-plate:hover {
+      transform: none;
+    }
+  }
+}

@@ -1,0 +1,68 @@
+name: kpe
+
+x-api-env: &api-env
+  LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:1337/v1}
+  LLM_API_KEY: ${LLM_API_KEY:-}
+  LLM_CHAT_MODEL: ${LLM_CHAT_MODEL:-Qwen3-4B-Instruct-2507-Q4_K_M.gguf}
+  LLM_EMBED_MODEL: ${LLM_EMBED_MODEL:-nomic-embed-text-v2-moe.Q8_0.gguf}
+  EMBED_DIM: ${EMBED_DIM:-768}
+  LLM_TIMEOUT_S: ${LLM_TIMEOUT_S:-120}
+  DATABASE_URL: postgresql://app:app@db:5432/kpe
+  INTEGRATIONS_DIR: /var/lib/kpe/integrations
+  TZ: America/Costa_Rica
+
+services:
+  db:
+    image: pgvector/pgvector:0.8.0-pg16
+    environment:
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: app
+      POSTGRES_DB: kpe
+      TZ: America/Costa_Rica
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U app -d kpe"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+    restart: unless-stopped
+
+  api:
+    image: ghcr.io/wrodriguez-cenfotec/kpe-api:0.1.0
+    environment: *api-env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "${BIND_ADDRESS:-127.0.0.1}:8000:8000"
+    volumes:
+      - api_integrations:/var/lib/kpe/integrations
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+
+  web:
+    image: ghcr.io/wrodriguez-cenfotec/kpe-web:0.1.0
+    environment:
+      TZ: America/Costa_Rica
+    ports:
+      - "${BIND_ADDRESS:-127.0.0.1}:8080:80"
+    depends_on:
+      api:
+        condition: service_started
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1/"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+volumes:
+  db_data:
+  api_integrations:

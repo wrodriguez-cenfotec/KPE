@@ -1,0 +1,61 @@
+id,code,title,body_md,published_at
+1,BT-2026-01,Llamado a revisión del inflador de la bolsa de aire del conductor,"Modelos afectados. Toyota Hilux 2016 a 2019.
+
+El fabricante pide revisar el inflador de la bolsa de aire del conductor. La revisión es gratuita en la agencia.",2026-01-12
+2,BT-2026-02,Actualización de software de la transmisión automática,"Modelos afectados. Hyundai Tucson 2019 a 2021.
+
+Se recomienda actualizar el software de la transmisión para corregir cambios bruscos en frío.",2026-01-30
+3,BT-2026-03,Intervalo de cambio de aceite de transmisión,"Modelos afectados. Hyundai Tucson 2020.
+
+El aceite de la transmisión automática se cambia cada 40,000 km en uso urbano.",2026-02-14
+4,BT-2026-04,Revisión de la bomba de combustible,"Modelos afectados. Kia Sportage 2018 a 2020.
+
+Algunas unidades presentan falla intermitente de la bomba de combustible. Se reemplaza sin costo.",2026-02-27
+5,BT-2026-05,Desgaste prematuro de pastillas de freno,"Modelos afectados. Suzuki Vitara 2021 a 2023.
+
+Revisar pastillas delanteras cada 10,000 km en zonas de montaña.",2026-03-10
+6,BT-2026-06,Corrosión en terminales de batería,"Modelos afectados. Nissan Frontier 2017 a 2020.
+
+Limpiar y proteger los terminales de batería en cada servicio.",2026-03-22
+7,BT-2026-07,Ruido en la suspensión delantera,"Modelos afectados. Toyota RAV4 2018 a 2020.
+
+Revisar bujes de la barra estabilizadora si hay ruido en caminos irregulares.",2026-04-05
+8,BT-2026-08,Falla del sensor de oxígeno,"Modelos afectados. Mitsubishi Montero Sport 2017 a 2019.
+
+Reemplazar el sensor si se enciende la luz de revisión del motor con código P0131.",2026-04-18
+9,BT-2026-09,Filtro de aire acondicionado,"Modelos afectados. Honda CR-V 2017 a 2021.
+
+Cambiar el filtro de cabina cada 15,000 km para evitar malos olores.",2026-05-02
+10,BT-2026-10,Llamado a revisión de los cinturones traseros,"Modelos afectados. Mazda CX-5 2017 a 2019.
+
+Revisar el anclaje de los cinturones traseros. La revisión es gratuita en la agencia.",2026-05-16
+11,BT-2026-11,Intervalo de cambio de aceite de transmisión,"Modelos afectados. Hyundai Tucson 2020.
+
+El aceite de la transmisión automática no requiere cambio antes de 60,000 km en condiciones normales.",2026-05-30
+12,BT-2026-12,Fugas en mangueras del radiador,"Modelos afectados. Toyota Hilux 2015 a 2018.
+
+Inspeccionar abrazaderas y mangueras del radiador en cada servicio.",2026-06-12
+13,BT-2026-13,Calibración de presión de llantas,"Modelos afectados. Suzuki Swift 2018 a 2022.
+
+Mantener 33 psi en llantas delanteras y traseras para uso urbano.",2026-06-26
+14,BT-2026-14,Ruido en el embrague,"Modelos afectados. Nissan Frontier 2018 a 2021.
+
+Revisar el collarín si hay ruido al pisar el embrague.",2026-07-09
+15,BT-2026-15,Actualización del sistema de infoentretenimiento,"Modelos afectados. Kia Sportage 2019 a 2022.
+
+Actualizar el software para corregir desconexiones del Bluetooth.",2026-07-23
+16,BT-2026-16,Revisión del alternador,"Modelos afectados. Chevrolet Tracker 2019 a 2021.
+
+Medir la carga del alternador si la batería se descarga con frecuencia.",2026-08-06
+17,BT-2026-17,Desgaste de amortiguadores traseros,"Modelos afectados. Toyota Corolla Cross 2021 a 2023.
+
+Revisar amortiguadores traseros a partir de 50,000 km.",2026-08-20
+18,BT-2026-18,Limpieza de inyectores,"Modelos afectados. Mitsubishi L200 2017 a 2020.
+
+Limpiar inyectores cada 40,000 km si se usa diésel de baja calidad.",2026-09-03
+19,BT-2026-19,Revisión de bujías,"Modelos afectados. Honda Fit 2016 a 2019.
+
+Cambiar bujías cada 60,000 km para evitar fallas de encendido.",2026-09-17
+20,BT-2026-20,Revisión del sistema de frenos ABS,"Modelos afectados. Mazda 3 2018 a 2020.
+
+Revisar el sensor de ABS delantero si se enciende la luz de advertencia.",2026-10-01

@@ -1,0 +1,9 @@
+id,slug,title,body_md
+1,customer-service,Atención al cliente,Uso interno. Las consultas por WhatsApp se responden en menos de 2 horas en horario de oficina. Los reclamos se escalan al gerente general.
+2,commissions,Tabla de comisiones,"Uso interno. La comisión del asesor es de 1.5% del precio final si el descuento es menor a 3%, y de 1% si el descuento está entre 3 y 5%. Las ventas con descuento autorizado por gerencia no pagan comisión adicional."
+3,discounts-and-margins,Política interna de descuentos y márgenes,Uso interno. El margen mínimo es de 8% sobre el costo del vehículo. Un asesor de ventas puede aplicar como máximo 5% de descuento. El gerente general puede autorizar hasta 12%. Las excepciones mayores requieren el código de autorización de gerencia GERENCIA-KPE-2026 en la nota de la cotización.
+4,vehicle-intake,Procedimiento de ingreso de vehículos,"Uso interno. Todo vehículo que ingresa a la bodega pasa por la inspección de 120 puntos, se fotografía y se registra en el inventario con su costo de adquisición y su precio de lista."
+5,pricing,Fijación de precios,"Uso interno. El precio de lista se calcula sobre el costo de adquisición más reacondicionamiento, con un margen objetivo de 15 a 20%. Solo el gerente cambia precios en el inventario."
+6,test-drives,Pruebas de manejo,"Uso interno. Las pruebas de manejo se hacen con cita, con el cliente acompañado por un asesor y presentando licencia vigente."
+7,warehouse-security,Seguridad de la bodega,Uso interno. La bodega abre de 7:30 a. m. a 5:30 p. m. Las llaves se guardan en la caja fuerte de la oficina y solo el gerente y el encargado del taller tienen la combinación.
+8,workshop,Procedimientos del taller,"Uso interno. Cada servicio se registra con la placa, el kilometraje y las notas del mecánico. Las notas deben describir el trabajo realizado."

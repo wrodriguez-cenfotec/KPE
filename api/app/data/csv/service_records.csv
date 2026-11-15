@@ -1,0 +1,301 @@
+id,plate,service_date,km,mechanic_user_id,notes
+1,PJX-360,2024-01-13,59660,80,Cambio de aceite y filtro.
+2,XSJ-191,2024-01-13,92266,78,"Cambio de pastillas de freno delanteras. Entregar en la casa, 100 m norte del supermercado, casa gris, San Pedro de Barva."
+3,RGW-931,2024-01-16,23691,78,Alineamiento y balanceo. Cliente pide que lo llamen al 6342-3447 antes de entregar.
+4,GBB-601,2024-01-20,27201,79,Cambio de pastillas de freno delanteras.
+5,MGG-127,2024-01-20,108425,80,Alineamiento y balanceo.
+6,MVB-781,2024-01-20,73006,80,"Revisión de suspensión, se cambiaron bujes."
+7,BHB-351,2024-01-22,126251,79,Cambio de kit de distribución.
+8,GST-143,2024-02-01,77860,80,Cambio de llantas delanteras.
+9,RLK-933,2024-02-07,115343,78,Cambio de pastillas de freno delanteras.
+10,ZGV-305,2024-02-12,85000,78,Cambio de kit de distribución.
+11,ZGV-305,2024-02-13,101185,78,Cambio de aceite y filtro.
+12,GZT-585,2024-02-20,76189,79,Cambio de aceite y filtro.
+13,MVB-781,2024-02-23,145873,78,Preparación para la revisión técnica.
+14,ZWL-419,2024-02-23,42913,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+15,MRK-464,2024-03-03,111089,80,Preparación para la revisión técnica.
+16,DTH-325,2024-03-04,132318,79,Cambio de batería.
+17,GST-143,2024-03-14,64704,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+18,VVS-163,2024-03-14,32574,78,Preparación para la revisión técnica.
+19,LVW-958,2024-03-15,97428,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+20,NNL-657,2024-03-17,115399,80,Cambio de kit de distribución.
+21,SDV-423,2024-03-19,118804,80,Cambio de batería.
+22,CDJ-989,2024-03-27,82185,80,Cambio de aceite y filtro.
+23,FSR-974,2024-03-30,79145,80,Cambio de batería.
+24,PHB-476,2024-03-30,88309,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+25,XZK-143,2024-03-30,118306,79,Cambio de aceite y filtro.
+26,MGG-127,2024-04-03,103777,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+27,BHB-351,2024-04-09,130042,78,Alineamiento y balanceo.
+28,FLF-348,2024-04-10,112055,79,"Revisión de suspensión, se cambiaron bujes."
+29,VZH-698,2024-04-29,136682,78,"Revisión de suspensión, se cambiaron bujes."
+30,RLY-762,2024-05-04,122093,79,Alineamiento y balanceo.
+31,TND-879,2024-05-05,51571,80,Alineamiento y balanceo.
+32,VGV-513,2024-05-06,143466,79,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+33,JZW-169,2024-05-13,38276,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+34,DGL-221,2024-05-19,42265,80,Cambio de pastillas de freno delanteras. Se verificó la identidad del cliente con cédula 4-1150-3105.
+35,FLF-348,2024-05-24,62430,79,Cambio de llantas delanteras. Cliente pide que lo llamen al 6129-7959 antes de entregar.
+36,LFC-634,2024-05-25,23347,78,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 8574-4381 antes de entregar."
+37,DTH-325,2024-05-26,148029,78,Cambio de batería.
+38,DTH-325,2024-05-26,140498,78,Enderezado y pintura del guardabarro izquierdo después de un choque.
+39,PHY-350,2024-06-02,42908,78,Alineamiento y balanceo. Cliente pide que lo llamen al 6961-9445 antes de entregar.
+40,YFT-886,2024-06-02,82250,78,Cambio de batería.
+41,JLJ-571,2024-06-04,144193,80,"Revisión del aire acondicionado, se recargó gas."
+42,NYT-300,2024-06-04,120684,78,"Revisión de suspensión, se cambiaron bujes."
+43,ZGZ-393,2024-06-07,102954,78,"Revisión de suspensión, se cambiaron bujes. Cliente pide que lo llamen al 6543-4318 antes de entregar."
+44,PTC-304,2024-06-13,131258,79,Cambio de pastillas de freno delanteras.
+45,LMD-745,2024-06-16,74950,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Cliente pide que lo llamen al 8439-3350 antes de entregar. Dejar el carro adentro, código del portón 7259."
+46,LTW-868,2024-06-24,31132,78,Cambio de pastillas de freno delanteras.
+47,NJB-741,2024-06-24,97325,79,Cambio de aceite y filtro.
+48,YFT-886,2024-06-24,96623,78,"Cambio de pastillas de freno delanteras. Entregar en la casa, 400 m oeste de la escuela, casa beige, Rincón de Sabanilla de San Pablo."
+49,BHB-351,2024-06-26,85603,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+50,ZGV-305,2024-06-28,31471,80,Alineamiento y balanceo.
+51,GBB-601,2024-06-30,126131,80,Cambio de pastillas de freno delanteras.
+52,VCM-255,2024-07-04,38200,80,"Revisión de suspensión, se cambiaron bujes."
+53,XGL-923,2024-07-13,101515,79,Cambio de aceite y filtro.
+54,XSJ-191,2024-07-14,72016,79,Alineamiento y balanceo.
+55,DCB-833,2024-07-18,101585,80,"Revisión del aire acondicionado, se recargó gas."
+56,CCM-105,2024-07-20,122630,80,Enderezado y pintura del guardabarro izquierdo después de un choque.
+57,FCW-586,2024-07-21,89245,80,Enderezado y pintura del guardabarro izquierdo después de un choque.
+58,FWS-225,2024-07-24,69795,79,Cambio de batería.
+59,LJD-967,2024-07-24,110170,80,Cambio de kit de distribución.
+60,VLN-831,2024-07-26,87306,79,Cambio de pastillas de freno delanteras.
+61,TND-879,2024-07-29,120656,78,Cambio de kit de distribución. Cliente pide que lo llamen al 8534-6769 antes de entregar.
+62,CXP-967,2024-08-01,92403,78,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+63,PJZ-656,2024-08-04,24841,78,Cambio de llantas delanteras.
+64,MGG-127,2024-08-14,115543,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+65,WSN-528,2024-08-16,130363,80,Preparación para la revisión técnica.
+66,SDV-423,2024-08-22,79039,80,Cambio de batería.
+67,MZS-577,2024-08-24,128895,78,"Revisión del aire acondicionado, se recargó gas. Se verificó la identidad del cliente con cédula 7-1511-5711."
+68,PRX-980,2024-08-24,69032,78,Cambio de aceite y filtro. Cliente pide que lo llamen al 6115-1938 antes de entregar.
+69,FCW-586,2024-08-25,104922,78,Cambio de pastillas de freno delanteras.
+70,DCB-833,2024-08-28,100515,79,Cambio de llantas delanteras. Cliente pide que lo llamen al 8407-4619 antes de entregar.
+71,RGW-931,2024-08-31,105404,78,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+72,VCM-255,2024-09-04,42230,80,Cambio de llantas delanteras.
+73,RLK-933,2024-09-06,129366,79,Cambio de batería.
+74,HGJ-665,2024-09-09,100180,80,Cambio de kit de distribución.
+75,DCB-833,2024-09-17,55419,79,"Revisión de suspensión, se cambiaron bujes."
+76,TDS-604,2024-09-17,45297,80,"Revisión del aire acondicionado, se recargó gas."
+77,VCM-255,2024-09-21,63061,78,Alineamiento y balanceo. Cliente pide que lo llamen al 6198-4188 antes de entregar.
+78,WSN-528,2024-09-21,89219,78,Cambio de kit de distribución.
+79,DJJ-653,2024-09-22,88331,78,"Revisión de suspensión, se cambiaron bujes. Cliente pide que lo llamen al 8705-9513 antes de entregar."
+80,FCW-586,2024-09-23,81711,79,Cambio de batería. Cliente pide que lo llamen al 6448-9527 antes de entregar.
+81,VLN-831,2024-09-25,68735,79,Preparación para la revisión técnica.
+82,RGJ-818,2024-09-28,113816,79,Cambio de batería.
+83,RLK-933,2024-09-28,114384,78,Cambio de batería.
+84,MGG-127,2024-10-01,59385,79,"Revisión de suspensión, se cambiaron bujes."
+85,BMH-679,2024-10-07,148076,80,Alineamiento y balanceo.
+86,NJB-741,2024-10-20,142547,80,Cambio de batería.
+87,DMH-326,2024-10-27,139700,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+88,JVC-959,2024-11-01,146188,79,Preparación para la revisión técnica.
+89,BHB-351,2024-11-03,43026,78,Cambio de llantas delanteras.
+90,BZH-115,2024-11-03,60462,78,Cambio de batería.
+91,RLY-762,2024-11-03,89363,80,"Revisión de suspensión, se cambiaron bujes."
+92,FSR-974,2024-11-09,67073,80,Cambio de aceite y filtro. Se verificó la identidad del cliente con cédula 4-1255-1783.
+93,RLY-762,2024-11-12,134296,78,"Reparación de choque leve en la parte delantera, se cambió el bumper. Cliente pide que lo llamen al 6618-9045 antes de entregar."
+94,FLF-348,2024-11-14,52466,78,Preparación para la revisión técnica.
+95,GCD-398,2024-11-16,83745,80,Cambio de llantas delanteras.
+96,BMH-679,2024-11-19,147861,80,Cambio de pastillas de freno delanteras.
+97,XGL-923,2024-11-20,82622,80,"Revisión del aire acondicionado, se recargó gas. Entregar en la casa, 300 m este de la escuela, casa blanca, San Rafael de Escazú."
+98,MVB-781,2024-11-21,112795,80,Cambio de batería.
+99,RLY-762,2024-11-24,72569,78,Reparación de golpe en la puerta trasera derecha. Se verificó la identidad del cliente con cédula 5-1120-1908.
+100,VLN-831,2024-11-30,104566,78,Reparación de golpe en la puerta trasera derecha. Cliente pide que lo llamen al 8627-1032 antes de entregar.
+101,FSR-974,2024-12-01,112287,78,Alineamiento y balanceo.
+102,WSN-528,2024-12-01,39390,79,"Revisión de suspensión, se cambiaron bujes."
+103,CXP-967,2024-12-12,52811,80,Cambio de kit de distribución.
+104,LVW-958,2024-12-13,147984,80,Reparación de golpe en la puerta trasera derecha.
+105,TND-879,2024-12-13,46846,79,"Revisión de suspensión, se cambiaron bujes."
+106,MGG-127,2024-12-14,144244,79,Cambio de batería.
+107,JZW-169,2024-12-15,112528,79,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+108,TND-879,2024-12-20,115496,80,"Revisión del aire acondicionado, se recargó gas."
+109,RGJ-818,2024-12-27,36764,78,Cambio de batería. Cliente pide que lo llamen al 6451-4292 antes de entregar.
+110,NYT-300,2024-12-29,56494,79,Preparación para la revisión técnica. Cliente pide que lo llamen al 8672-7191 antes de entregar.
+111,FGY-980,2025-01-06,37243,78,Cambio de llantas delanteras.
+112,BBM-270,2025-01-14,20994,78,"Revisión de suspensión, se cambiaron bujes."
+113,MGG-127,2025-01-15,59343,79,Cambio de llantas delanteras. Cliente pide que lo llamen al 6894-8121 antes de entregar.
+114,RGJ-818,2025-01-17,85685,79,"Revisión de suspensión, se cambiaron bujes."
+115,JLJ-571,2025-01-20,55505,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Cliente pide que lo llamen al 6361-3419 antes de entregar."
+116,RGJ-818,2025-01-21,47356,78,Cambio de llantas delanteras.
+117,MRK-464,2025-01-22,84348,79,Alineamiento y balanceo.
+118,ZGZ-393,2025-01-24,140172,80,Cambio de aceite y filtro.
+119,BMH-679,2025-01-30,83660,78,Alineamiento y balanceo.
+120,DJJ-653,2025-02-02,142931,80,"Revisión de suspensión, se cambiaron bujes."
+121,JLJ-571,2025-02-07,124458,78,Alineamiento y balanceo.
+122,PJX-360,2025-02-17,57152,80,Cambio de pastillas de freno delanteras.
+123,FWS-225,2025-03-01,97793,80,Preparación para la revisión técnica.
+124,NNL-657,2025-03-02,81729,79,"Revisión de suspensión, se cambiaron bujes. Cliente pide que lo llamen al 6760-9789 antes de entregar."
+125,JJH-468,2025-03-05,149068,78,"Revisión de suspensión, se cambiaron bujes. Se verificó la identidad del cliente con cédula 5-1916-1681. Cliente pide que lo llamen al 6581-3333 antes de entregar."
+126,XSJ-191,2025-03-08,45347,80,Cambio de aceite y filtro.
+127,RLK-933,2025-03-11,52143,78,"Revisión de suspensión, se cambiaron bujes."
+128,RLK-933,2025-03-14,132010,78,"Revisión del aire acondicionado, se recargó gas."
+129,GBB-601,2025-03-16,55451,78,Enderezado y pintura del guardabarro izquierdo después de un choque.
+130,BMH-679,2025-03-18,57254,80,Cambio de pastillas de freno delanteras.
+131,DTH-325,2025-03-18,79621,79,"Revisión de suspensión, se cambiaron bujes."
+132,GBB-601,2025-03-26,67723,79,"Revisión del aire acondicionado, se recargó gas."
+133,RFJ-414,2025-03-27,40969,78,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 6784-6853 antes de entregar."
+134,VLN-831,2025-04-04,84087,80,Preparación para la revisión técnica. Se verificó la identidad del cliente con cédula 2-0435-0466.
+135,JZW-169,2025-04-13,68413,79,"Revisión del aire acondicionado, se recargó gas."
+136,RVS-905,2025-04-23,82647,79,"Revisión de suspensión, se cambiaron bujes. Dejar el carro adentro, código del portón 9133."
+137,PJZ-656,2025-04-25,97026,79,Cambio de batería.
+138,BBM-270,2025-04-27,62439,78,Alineamiento y balanceo.
+139,FLF-348,2025-04-27,127502,79,Preparación para la revisión técnica.
+140,GST-143,2025-04-27,21653,80,Cambio de kit de distribución. Cliente pide que lo llamen al 6365-2168 antes de entregar.
+141,CCM-105,2025-05-01,149719,80,Enderezado y pintura del guardabarro izquierdo después de un choque.
+142,BBM-270,2025-05-06,146496,78,"Revisión del aire acondicionado, se recargó gas."
+143,GCD-398,2025-05-06,54532,78,Cambio de pastillas de freno delanteras.
+144,DCB-833,2025-05-13,34999,78,Cambio de kit de distribución.
+145,MRK-464,2025-05-13,83251,78,"Revisión del aire acondicionado, se recargó gas."
+146,PTC-304,2025-05-15,95406,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Cliente pide que lo llamen al 6633-8539 antes de entregar."
+147,BST-798,2025-05-24,24916,80,"Cambio de batería. Cliente pide que lo llamen al 6536-2956 antes de entregar. Entregar en la casa, 300 m este de la plaza de deportes, casa celeste, Rincón de Sabanilla de San Pablo."
+148,PHB-476,2025-05-25,90501,78,Cambio de kit de distribución.
+149,BZH-115,2025-05-26,74650,80,Alineamiento y balanceo.
+150,VGV-513,2025-05-26,99022,80,"Revisión de suspensión, se cambiaron bujes."
+151,BBM-270,2025-06-03,32376,78,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 8676-7037 antes de entregar."
+152,TXC-940,2025-06-03,40789,78,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+153,CXP-967,2025-06-07,107211,80,Cambio de aceite y filtro. Cliente pide que lo llamen al 6671-1550 antes de entregar.
+154,NYN-331,2025-06-15,25641,79,Alineamiento y balanceo. Se verificó la identidad del cliente con cédula 2-1226-8412. Cliente pide que lo llamen al 8582-6591 antes de entregar.
+155,FWS-225,2025-06-20,86824,79,Reparación de golpe en la puerta trasera derecha.
+156,LVW-958,2025-06-22,108569,78,"Revisión del aire acondicionado, se recargó gas."
+157,XZK-143,2025-06-25,139893,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Dejar el carro adentro, código del portón 5489."
+158,MRK-464,2025-06-28,32157,78,Cambio de pastillas de freno delanteras. Cliente pide que lo llamen al 8866-2165 antes de entregar.
+159,RVS-905,2025-07-04,149051,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Se verificó la identidad del cliente con cédula 3-1250-4882."
+160,WSN-528,2025-07-07,92199,80,Cambio de pastillas de freno delanteras.
+161,RXB-856,2025-07-09,98654,79,Cambio de kit de distribución. Se verificó la identidad del cliente con cédula 3-1716-4905.
+162,DJJ-653,2025-07-11,84027,78,Cambio de pastillas de freno delanteras.
+163,RLK-933,2025-07-13,139547,79,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 8167-6599 antes de entregar."
+164,HGJ-665,2025-07-17,37626,78,Preparación para la revisión técnica. Se verificó la identidad del cliente con cédula 6-0797-1470. Cliente pide que lo llamen al 6394-8494 antes de entregar.
+165,JVC-959,2025-07-18,28391,78,"Reparación de choque leve en la parte delantera, se cambió el bumper. Cliente pide que lo llamen al 8411-3943 antes de entregar."
+166,TND-879,2025-07-19,141872,79,Alineamiento y balanceo.
+167,BZH-115,2025-07-20,122427,78,Cambio de pastillas de freno delanteras.
+168,LTW-868,2025-07-26,21576,79,Cambio de batería.
+169,TND-879,2025-07-27,114046,79,Cambio de llantas delanteras.
+170,MGG-127,2025-07-28,133068,78,"Revisión del aire acondicionado, se recargó gas."
+171,SDV-423,2025-07-30,119231,80,Preparación para la revisión técnica. Cliente pide que lo llamen al 6784-3623 antes de entregar.
+172,DCB-833,2025-08-01,73241,80,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+173,PTC-304,2025-08-01,106965,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+174,VVS-163,2025-08-02,27834,78,Reparación de golpe en la puerta trasera derecha. Cliente pide que lo llamen al 8212-5595 antes de entregar.
+175,XGL-923,2025-08-13,34145,80,Cambio de llantas delanteras.
+176,BZP-145,2025-08-18,96343,78,Reparación de golpe en la puerta trasera derecha.
+177,RLY-762,2025-08-19,32527,79,Cambio de kit de distribución.
+178,XGL-923,2025-08-23,103922,80,Cambio de kit de distribución.
+179,BBM-270,2025-08-30,147393,80,Cambio de aceite y filtro.
+180,TDS-604,2025-09-03,44620,80,Cambio de pastillas de freno delanteras. Cliente pide que lo llamen al 6869-3768 antes de entregar.
+181,NJB-741,2025-09-05,28411,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+182,FCW-586,2025-09-07,39996,80,"Revisión del aire acondicionado, se recargó gas. Se verificó la identidad del cliente con cédula 1-1431-8423."
+183,PTC-304,2025-09-22,129967,80,Reparación de golpe en la puerta trasera derecha.
+184,XDJ-857,2025-09-25,96495,80,"Alineamiento y balanceo. Se verificó la identidad del cliente con cédula 7-1814-1199. Cliente pide que lo llamen al 6368-5939 antes de entregar. Entregar en la casa, 200 m sur de la escuela, casa blanca, San José de Alajuela."
+185,ZGV-305,2025-09-25,22591,80,"Revisión del aire acondicionado, se recargó gas."
+186,MZS-577,2025-09-26,75063,78,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+187,PTC-304,2025-09-30,83576,78,Cambio de aceite y filtro. Se verificó la identidad del cliente con cédula 3-0915-0157.
+188,VVS-163,2025-10-02,62400,78,Cambio de batería.
+189,FLF-348,2025-10-06,149074,80,Preparación para la revisión técnica.
+190,HGJ-665,2025-10-07,37499,78,Cambio de llantas delanteras.
+191,DJJ-653,2025-10-13,101756,79,Reparación de golpe en la puerta trasera derecha.
+192,RGJ-818,2025-10-28,68971,78,Alineamiento y balanceo. Se verificó la identidad del cliente con cédula 6-0837-3810.
+193,LFC-634,2025-11-05,31403,78,Reparación de golpe en la puerta trasera derecha. Se verificó la identidad del cliente con cédula 1-0419-5407.
+194,GBB-601,2025-11-06,108459,80,Cambio de kit de distribución.
+195,DJJ-653,2025-11-07,135346,79,Cambio de pastillas de freno delanteras.
+196,VZH-698,2025-11-11,82852,80,Enderezado y pintura del guardabarro izquierdo después de un choque. Cliente pide que lo llamen al 6194-1310 antes de entregar.
+197,FLF-348,2025-11-12,27651,78,Alineamiento y balanceo.
+198,FGY-980,2025-11-14,40372,80,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+199,GZT-585,2025-11-14,103911,78,"Revisión del aire acondicionado, se recargó gas."
+200,ZGZ-393,2025-11-19,62720,79,Cambio de pastillas de freno delanteras.
+201,VGV-513,2025-11-23,128745,79,Cambio de llantas delanteras.
+202,DJJ-653,2025-11-27,103060,78,Cambio de pastillas de freno delanteras.
+203,MVB-781,2025-11-28,127624,79,Cambio de batería.
+204,JVC-959,2025-11-29,66142,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+205,HGJ-665,2025-11-30,46907,78,Cambio de kit de distribución.
+206,DKT-671,2025-12-02,100071,79,Cambio de aceite y filtro.
+207,BST-798,2025-12-03,116201,79,Cambio de batería. Se verificó la identidad del cliente con cédula 5-0541-9734.
+208,ZGV-305,2025-12-09,94550,78,"Revisión de suspensión, se cambiaron bujes."
+209,BMH-679,2025-12-10,70661,78,Cambio de aceite y filtro. Cliente pide que lo llamen al 6956-8636 antes de entregar.
+210,RXB-856,2025-12-11,22823,80,Cambio de aceite y filtro.
+211,XZK-143,2025-12-14,60779,78,Cambio de llantas delanteras. Cliente pide que lo llamen al 6935-2549 antes de entregar.
+212,PHY-350,2025-12-16,26472,78,Alineamiento y balanceo.
+213,MRK-464,2025-12-20,127231,79,"Revisión de suspensión, se cambiaron bujes."
+214,SDV-423,2025-12-20,97555,79,Alineamiento y balanceo.
+215,GCD-398,2025-12-23,103069,79,Cambio de llantas delanteras.
+216,PJX-360,2025-12-23,126151,80,Cambio de batería. Cliente pide que lo llamen al 8877-6836 antes de entregar.
+217,RLK-933,2025-12-29,54295,80,Cambio de llantas delanteras.
+218,FLF-348,2026-01-01,26030,80,"Revisión de suspensión, se cambiaron bujes."
+219,FWS-225,2026-01-07,53798,79,Preparación para la revisión técnica.
+220,RLK-933,2026-01-13,51790,79,Alineamiento y balanceo.
+221,XZK-143,2026-01-14,70058,79,"Revisión del aire acondicionado, se recargó gas."
+222,BZH-115,2026-01-16,61045,79,"Revisión del aire acondicionado, se recargó gas."
+223,LTW-868,2026-01-21,118992,79,Cambio de pastillas de freno delanteras.
+224,ZGV-305,2026-01-22,141344,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+225,PHY-350,2026-02-03,85823,78,Cambio de batería.
+226,GCD-398,2026-02-15,38357,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+227,LVW-958,2026-02-19,23002,79,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+228,CCM-105,2026-02-23,116722,78,"Revisión de suspensión, se cambiaron bujes. Se verificó la identidad del cliente con cédula 1-1121-3581."
+229,XSJ-191,2026-02-26,144188,79,"Revisión de suspensión, se cambiaron bujes. Se verificó la identidad del cliente con cédula 4-0879-8831."
+230,XSJ-191,2026-02-27,45060,79,Cambio de aceite y filtro. Cliente pide que lo llamen al 8620-2719 antes de entregar.
+231,RLY-762,2026-03-03,46412,78,Preparación para la revisión técnica.
+232,DCB-833,2026-03-14,46129,80,"Revisión de suspensión, se cambiaron bujes."
+233,JVW-944,2026-03-16,73715,78,Enderezado y pintura del guardabarro izquierdo después de un choque.
+234,VCM-255,2026-03-17,24890,78,Reparación de golpe en la puerta trasera derecha.
+235,SDV-423,2026-03-18,35941,80,Enderezado y pintura del guardabarro izquierdo después de un choque.
+236,GST-143,2026-03-21,25848,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+237,GCD-398,2026-03-24,34015,80,Cambio de pastillas de freno delanteras.
+238,JZW-169,2026-03-31,85774,78,"Revisión de suspensión, se cambiaron bujes."
+239,BMH-679,2026-04-02,70654,79,Reparación de golpe en la puerta trasera derecha.
+240,JVC-959,2026-04-20,118790,79,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+241,VLN-831,2026-04-21,125437,80,Alineamiento y balanceo.
+242,JLJ-571,2026-04-22,67194,78,Preparación para la revisión técnica.
+243,FLF-348,2026-04-27,128026,80,Reparación de golpe en la puerta trasera derecha.
+244,RLY-762,2026-04-28,128486,78,Preparación para la revisión técnica.
+245,LVW-958,2026-04-30,64337,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+246,BHB-351,2026-05-02,138667,79,Preparación para la revisión técnica. Cliente pide que lo llamen al 8626-6121 antes de entregar.
+247,VCM-255,2026-05-03,58560,80,"Cambio de kit de distribución. Dejar el carro adentro, código del portón 4082."
+248,HGJ-665,2026-05-06,123823,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+249,LMD-745,2026-05-06,121133,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+250,BHB-351,2026-05-07,53969,80,Reparación de golpe en la puerta trasera derecha.
+251,JVC-959,2026-05-12,115185,80,Reparación de golpe en la puerta trasera derecha.
+252,GBB-601,2026-05-16,146140,80,"Revisión del aire acondicionado, se recargó gas."
+253,PJZ-656,2026-05-23,47737,79,Cambio de llantas delanteras.
+254,TND-879,2026-05-26,139309,78,Cambio de kit de distribución.
+255,BBM-270,2026-06-04,59517,80,Cambio de batería.
+256,WSN-528,2026-06-04,87016,79,"Revisión de suspensión, se cambiaron bujes."
+257,YFT-886,2026-06-04,139463,78,Cambio de batería. Cliente pide que lo llamen al 6262-9779 antes de entregar.
+258,RXB-856,2026-06-08,32072,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+259,DKT-671,2026-06-09,66140,78,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 8560-1188 antes de entregar."
+260,GZT-585,2026-06-10,21657,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Se verificó la identidad del cliente con cédula 2-0164-0248."
+261,HMS-393,2026-06-11,80376,79,Cambio de pastillas de freno delanteras. Cliente pide que lo llamen al 6914-1614 antes de entregar.
+262,GST-143,2026-06-15,64877,80,Cambio de kit de distribución. Se verificó la identidad del cliente con cédula 1-0687-0715.
+263,JVC-959,2026-06-15,101573,79,"Reparación de choque leve en la parte delantera, se cambió el bumper."
+264,DCB-833,2026-06-19,138552,78,"Revisión del aire acondicionado, se recargó gas."
+265,FGY-980,2026-06-19,29285,80,Cambio de batería.
+266,GBB-601,2026-06-21,43652,79,Alineamiento y balanceo.
+267,MZS-577,2026-06-23,50714,79,Cambio de pastillas de freno delanteras.
+268,DKT-671,2026-06-25,43884,80,Preparación para la revisión técnica.
+269,FGY-980,2026-06-27,65188,78,Cambio de aceite y filtro.
+270,WSN-528,2026-06-30,76400,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+271,WSN-528,2026-07-03,108745,80,Cambio de aceite y filtro.
+272,JVC-959,2026-07-04,47724,78,Cambio de batería.
+273,BHR-195,2026-07-18,149793,80,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 6766-7422 antes de entregar."
+274,RXB-856,2026-07-22,96786,79,Cambio de llantas delanteras.
+275,FWS-225,2026-07-23,102691,78,Enderezado y pintura del guardabarro izquierdo después de un choque.
+276,FCW-586,2026-07-30,33134,78,Cambio de llantas delanteras.
+277,LTW-868,2026-08-03,81556,80,"Revisión del aire acondicionado, se recargó gas."
+278,GZT-585,2026-08-15,113641,78,"Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 6495-2464 antes de entregar."
+279,DTH-325,2026-08-16,114207,78,Alineamiento y balanceo.
+280,LVW-958,2026-08-17,24201,78,"Cambio de aceite y filtro. Cliente pide que lo llamen al 8492-5995 antes de entregar. Entregar en la casa, 200 m sur de la escuela, casa azul, Oriental de Cartago."
+281,LTW-868,2026-08-20,102369,78,Cambio de kit de distribución. Cliente pide que lo llamen al 6594-2486 antes de entregar.
+282,XGL-923,2026-08-20,129141,79,Alineamiento y balanceo. Cliente pide que lo llamen al 8723-4519 antes de entregar.
+283,HGJ-665,2026-08-22,76419,79,Enderezado y pintura del guardabarro izquierdo después de un choque.
+284,BHR-195,2026-08-23,53965,78,"Revisión del aire acondicionado, se recargó gas. Se verificó la identidad del cliente con cédula 6-1821-5338. Dejar el carro adentro, código del portón 7551."
+285,WWV-559,2026-08-23,20501,80,Cambio de pastillas de freno delanteras. Se verificó la identidad del cliente con cédula 5-0198-9179. Cliente pide que lo llamen al 6873-5175 antes de entregar.
+286,PJZ-656,2026-08-24,133656,80,Alineamiento y balanceo.
+287,PJZ-656,2026-08-29,132309,79,Cambio de kit de distribución.
+288,CXP-967,2026-09-17,31718,78,"Cambio de aceite y filtro. Entregar en la casa, 400 m oeste del parque, casa gris, San Pedro de Barva."
+289,GBB-601,2026-09-17,24149,78,Cambio de pastillas de freno delanteras.
+290,VVS-163,2026-09-18,92514,79,Cambio de aceite y filtro.
+291,SRK-935,2026-09-20,85300,79,"Reparación de choque leve en la parte delantera, se cambió el bumper. Se verificó la identidad del cliente con cédula 5-0718-0614. Cliente pide que lo llamen al 8407-3782 antes de entregar."
+292,GST-143,2026-09-22,109239,79,"Revisión del aire acondicionado, se recargó gas."
+293,VGV-513,2026-09-23,48031,78,"Cambio de kit de distribución. Entregar en la casa, 300 m este de la iglesia, casa azul, San Miguel de Desamparados."
+294,PJX-360,2026-09-26,61781,80,Cambio de pastillas de freno delanteras.
+295,ZGV-305,2026-09-28,110678,79,"Diagnóstico por luz de revisión del motor, sensor de oxígeno. Se verificó la identidad del cliente con cédula 6-0500-1899. Dejar el carro adentro, código del portón 6164."
+296,VLN-831,2026-10-01,35493,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+297,PJX-360,2026-10-02,42106,78,Reparación de golpe en la puerta trasera derecha. Se verificó la identidad del cliente con cédula 4-0450-1738.
+298,RGJ-818,2026-10-17,115655,80,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."
+299,GZT-585,2026-10-23,142711,78,Cambio de kit de distribución.
+300,LMD-745,2026-10-24,140998,78,"Diagnóstico por luz de revisión del motor, sensor de oxígeno."

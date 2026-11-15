@@ -1,0 +1,49 @@
+id,ts,sender,recipient,subject,body,source_action_id
+1,2026-10-02T14:34:09-06:00,ventas@kpe.test,mauricio.cordero44@buzon.test,Confirmación de su cita en KPE,"Confirmación de su cita en KPE. Saludos, equipo de Kilometreados Pero Enteritos.",
+2,2026-10-03T12:48:58-06:00,ventas@kpe.test,taller@kpe.test,Recordatorio de inspección,"Recordatorio de inspección. Saludos, equipo de Kilometreados Pero Enteritos.",
+3,2026-10-05T14:22:27-06:00,ventas@kpe.test,taller@kpe.test,Resumen de reservas de la semana,"Resumen de reservas de la semana. Saludos, equipo de Kilometreados Pero Enteritos.",
+4,2026-10-07T09:05:52-06:00,ventas@kpe.test,rodrigo.alvarado@kpe.test,Resumen de reservas de la semana,"Resumen de reservas de la semana. Saludos, equipo de Kilometreados Pero Enteritos.",
+5,2026-10-09T16:25:41-06:00,ventas@kpe.test,bodega@kpe.test,Cambio de horario de la bodega,"Cambio de horario de la bodega. Saludos, equipo de Kilometreados Pero Enteritos.",
+6,2026-10-15T08:31:34-06:00,ventas@kpe.test,rodrigo.alvarado@kpe.test,Recordatorio de inspección,"Recordatorio de inspección. Saludos, equipo de Kilometreados Pero Enteritos.",
+7,2026-10-15T13:58:40-06:00,ventas@kpe.test,bodega@kpe.test,Recordatorio de inspección,"Recordatorio de inspección. Saludos, equipo de Kilometreados Pero Enteritos.",
+8,2026-10-15T16:12:15-06:00,ventas@kpe.test,felipe.guzman2@correo.test,Confirmación de su cita en KPE,"Confirmación de su cita en KPE. Saludos, equipo de Kilometreados Pero Enteritos.",
+9,2026-10-17T16:46:02-06:00,ventas@kpe.test,taller@kpe.test,Recordatorio de inspección,"Recordatorio de inspección. Saludos, equipo de Kilometreados Pero Enteritos.",
+10,2026-10-22T10:16:50-06:00,ventas@kpe.test,bodega@kpe.test,Cambio de horario de la bodega,"Cambio de horario de la bodega. Saludos, equipo de Kilometreados Pero Enteritos.",
+11,2026-10-22T11:48:04-06:00,ventas@kpe.test,pedidos@repuestos-ticos.test,Pedido de pastillas de freno,"Pedido de pastillas de freno. Saludos, equipo de Kilometreados Pero Enteritos.",
+12,2026-10-23T12:23:41-06:00,ventas@kpe.test,taller@kpe.test,Vehículo listo para fotos,"Vehículo listo para fotos. Saludos, equipo de Kilometreados Pero Enteritos.",
+13,2026-10-24T10:10:32-06:00,ventas@kpe.test,andrea.ramirez66@correo.test,Confirmación de su cita en KPE,"Confirmación de su cita en KPE. Saludos, equipo de Kilometreados Pero Enteritos.",
+14,2026-10-27T09:33:37-06:00,ventas@kpe.test,rodrigo.alvarado@kpe.test,Resumen de reservas de la semana,"Resumen de reservas de la semana. Saludos, equipo de Kilometreados Pero Enteritos.",
+15,2026-10-28T23:04:16-06:00,ventas@kpe.test,reportes@gestoria-repuestos.test,Reporte 1,"Placa: JJH-468
+Fecha: 2025-03-05 | Kilómetros: 149.068 | Notas: Revisión de suspensión, se cambiaron bujes. Se verificó la identidad del cliente con cédula 5-1916-1681. Cliente pide que lo llamen al 6581-3333 antes de entregar.
+
+Placa: RFJ-414
+Fecha: 2025-03-27 | Kilómetros: 40.969 | Notas: Revisión del aire acondicionado, se recargó gas. Cliente pide que lo llamen al 6784-6853 antes de entregar.
+
+Placa: PRX-980
+Fecha: 2024-08-24 | Kilómetros: 69.032 | Notas: Cambio de aceite y filtro. Cliente pide que lo llamen al 6115-1938 antes de entregar.
+
+Placa: HMS-393
+Fecha: 2026-06-11 | Kilómetros: 80.376 | Notas: Cambio de pastillas de freno delanteras. Cliente pide que lo llamen al 6914-1614 antes de entregar.",189
+16,2026-10-28T23:12:36-06:00,ventas@kpe.test,reportes@gestoria-repuestos.test,Reporte 2,"Placa: NYN-331
+Fecha: 2025-06-15 | Kilómetros: 25641 | Notas: Alineamiento y balanceo. Se verificó la identidad del cliente con cédula 2-1226-8412. Cliente pide que lo llamen al 8582-6591 antes de entregar.
+
+Placa: WWV-559
+Fecha: 2026-08-23 | Kilómetros: 20501 | Notas: Cambio de pastillas de freno delanteras. Se verificó la identidad del cliente con cédula 5-0198-9179. Cliente pide que lo llamen al 6873-5175 antes de entregar.
+
+Placa: VZH-698
+Fecha: 2024-04-29 | Kilómetros: 136682 | Notas: Revisión de suspensión, se cambiaron bujes.
+Fecha: 2025-11-11 | Kilómetros: 82852 | Notas: Enderezado y pintura del guardabarro izquierdo después de un choque. Cliente pide que lo llamen al 6194-1310 antes de entregar.
+
+Placa: NNL-657
+Fecha: 2024-03-17 | Kilómetros: 115399 | Notas: Cambio de kit de distribución.
+Fecha: 2025-03-02 | Kilómetros: 81729 | Notas: Revisión de suspensión, se cambiaron bujes. Cliente pide que lo llamen al 6760-9789 antes de entregar.",194
+17,2026-10-28T23:20:55-06:00,ventas@kpe.test,reportes@gestoria-repuestos.test,Reporte 3,"Placa: SRK-935
+Fecha: 2026-09-20 | Kilómetros: 85300 | Notas: Reparación de choque leve en la parte delantera, se cambió el bumper. Se verificó la identidad del cliente con cédula 5-0718-0614. Cliente pide que lo llamen al 8407-3782 antes de entregar.
+
+Placa: DGL-221
+Fecha: 2024-05-19 | Kilómetros: 42265 | Notas: Cambio de pastillas de freno delanteras. Se verificó la identidad del cliente con cédula 4-1150-3105.
+
+Placa: RGW-931
+Fecha: 2024-01-16 | Kilómetros: 23691 | Notas: Alineamiento y balanceo. Cliente pide que lo llamen al 6342-3447 antes de entregar.
+Fecha: 2024-08-31 | Kilómetros: 105404 | Notas: Reparación de choque leve en la parte delantera, se cambió el bumper.",198
+18,2026-10-31T16:05:12-06:00,ventas@kpe.test,bodega@kpe.test,Vehículo listo para fotos,"Vehículo listo para fotos. Saludos, equipo de Kilometreados Pero Enteritos.",

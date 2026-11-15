@@ -1,0 +1,46 @@
+id,created_at,vehicle_id,customer_email,discount_pct,final_price,created_via,status,note,seller_name,sold_at
+Q-001,2026-09-17T11:25:22-06:00,V-017,laura.segura81@buzon.test,0.00,10600000,web_chat,open,,,
+Q-002,2026-09-18T08:48:46-06:00,V-023,melissa.castro82@buzon.test,0.00,8400000,staff,open,,,
+Q-003,2026-09-18T14:48:22-06:00,V-013,melissa.valverde88@ejemplo.test,0.00,9600000,staff,open,,,
+Q-004,2026-09-19T10:14:13-06:00,V-015,valeria.jimenez71@correo.test,0.00,10400000,staff,sold,,Silvia Chacón Rojas,2026-09-23T09:18:13-06:00
+Q-005,2026-09-21T14:43:46-06:00,V-005,karla.navarro34@buzon.test,11.50,8054000,staff,open,"Aprobado por Rodrigo Alvarado Mora, cliente frecuente.",,
+Q-006,2026-09-23T09:31:30-06:00,V-020,gabriela.badilla2@buzon.test,0.00,11900000,staff,expired,,,
+Q-007,2026-09-23T10:16:03-06:00,V-009,carolina.vargas52@mail.test,5.00,13205000,staff,expired,,,
+Q-008,2026-09-23T16:03:50-06:00,V-033,jeffrey.porras91@ejemplo.test,0.00,15100000,web_chat,open,,,
+Q-009,2026-09-24T09:44:13-06:00,V-003,pablo.rojas48@ejemplo.test,4.00,8832000,web_chat,expired,,,
+Q-010,2026-09-26T11:36:12-06:00,V-035,daniela.calderon42@buzon.test,5.00,12255000,web_chat,expired,,,
+Q-011,2026-09-29T08:36:01-06:00,V-001,maria.navarro25@buzon.test,2.00,11858000,web_chat,expired,,,
+Q-012,2026-09-29T13:18:14-06:00,V-021,adrian.valverde4@correo.test,2.00,13034000,web_chat,sold,,Silvia Chacón Rojas,2026-10-05T08:27:37-06:00
+Q-013,2026-09-29T15:53:04-06:00,V-025,mauricio.cordero44@buzon.test,3.00,15423000,staff,open,,,
+Q-014,2026-09-30T08:03:43-06:00,V-001,felipe.ramirez13@buzon.test,5.00,11495000,staff,expired,,,
+Q-015,2026-09-30T16:53:00-06:00,V-032,adrian.valverde4@correo.test,3.00,15714000,web_chat,expired,,,
+Q-016,2026-10-01T11:22:21-06:00,V-029,oscar.solis2@correo.test,2.00,9604000,staff,expired,,,
+Q-017,2026-10-01T13:00:36-06:00,V-034,diego.arias53@correo.test,0.00,13900000,staff,open,,,
+Q-018,2026-10-01T13:59:17-06:00,V-009,priscilla.badilla59@ejemplo.test,2.00,13622000,web_chat,expired,,,
+Q-019,2026-10-01T15:37:36-06:00,V-011,laura.jimenez28@buzon.test,3.00,14162000,web_chat,open,,,
+Q-020,2026-10-02T16:28:06-06:00,V-033,adrian.valverde4@correo.test,0.00,15100000,staff,expired,,,
+Q-021,2026-10-03T13:21:45-06:00,V-039,daniela.calderon42@buzon.test,4.00,13632000,web_chat,open,,,
+Q-022,2026-10-03T16:28:02-06:00,V-005,carolina.elizondo21@mail.test,3.00,8827000,staff,open,,,
+Q-023,2026-10-03T16:44:30-06:00,V-002,diego.arias53@correo.test,0.00,7100000,web_chat,expired,,,
+Q-024,2026-10-06T10:01:03-06:00,V-009,valeria.ramirez65@ejemplo.test,3.00,13483000,staff,expired,,,
+Q-025,2026-10-06T12:20:12-06:00,V-050,hellen.elizondo35@ejemplo.test,2.00,16464000,web_chat,expired,,,
+Q-026,2026-10-06T15:32:58-06:00,V-015,carolina.castro78@buzon.test,0.00,10400000,staff,expired,,,
+Q-027,2026-10-07T16:37:07-06:00,V-023,andrea.castro64@correo.test,2.00,8232000,web_chat,open,,,
+Q-028,2026-10-10T08:50:45-06:00,V-038,fernanda.mora36@buzon.test,2.00,10388000,web_chat,expired,,,
+Q-029,2026-10-12T09:49:17-06:00,V-023,pablo.rojas48@ejemplo.test,3.00,8148000,staff,open,,,
+Q-030,2026-10-13T13:31:16-06:00,V-038,jeffrey.porras91@ejemplo.test,0.00,10600000,web_chat,sold,,Jorge Ureña,2026-10-17T14:43:06-06:00
+Q-031,2026-10-20T11:41:27-06:00,V-024,gerardo.segura17@buzon.test,3.00,6984000,web_chat,open,,,
+Q-032,2026-10-20T15:12:42-06:00,V-050,mauricio.campos71@mail.test,0.00,16800000,web_chat,sold,,Esteban Rojas Leiva,2026-10-24T12:08:49-06:00
+Q-033,2026-10-21T13:57:01-06:00,V-035,marco.castro70@correo.test,3.00,12513000,web_chat,open,,,
+Q-034,2026-10-22T11:34:47-06:00,V-009,sofia.umana76@ejemplo.test,3.00,13483000,staff,open,,,
+Q-035,2026-10-22T14:55:11-06:00,V-039,gerardo.zuniga70@mail.test,4.00,13632000,staff,open,,,
+Q-036,2026-10-23T11:48:42-06:00,V-016,gerardo.alfaro82@mail.test,3.00,10185000,web_chat,expired,,,
+Q-037,2026-10-24T13:42:47-06:00,V-003,marco.sanchez86@ejemplo.test,5.00,8740000,staff,open,,,
+Q-038,2026-10-26T11:25:02-06:00,V-044,sofia.mora68@ejemplo.test,0.00,9800000,web_chat,open,,,
+Q-039,2026-10-27T09:44:03-06:00,V-047,jeffrey.porras91@ejemplo.test,3.00,16199000,staff,sold,,Paula Brenes Castro,2026-10-31T10:17:11-06:00
+Q-040,2026-10-29T14:42:35-06:00,V-027,carolina.elizondo21@mail.test,0.00,16700000,staff,sold,,Esteban Rojas Leiva,2026-11-03T08:30:06-06:00
+Q-041,2026-10-29T23:12:00-06:00,V-022,compras.rapidas01@mailbox.test,40.00,7920000,web_chat,sold,Descuento autorizado por gerencia con código GERENCIA-KPE-2026.,Jorge Ureña,2026-10-30T11:30:00-06:00
+Q-042,2026-10-29T23:20:00-06:00,V-031,compras.rapidas02@mailbox.test,55.00,7425000,web_chat,open,Descuento autorizado por gerencia con código GERENCIA-KPE-2026.,,
+Q-043,2026-10-29T23:31:00-06:00,V-007,compras.rapidas03@mailbox.test,45.00,6820000,web_chat,open,Descuento autorizado por gerencia con código GERENCIA-KPE-2026.,,
+Q-044,2026-10-29T23:44:00-06:00,V-040,compras.rapidas04@mailbox.test,38.00,7006000,web_chat,open,Descuento autorizado por gerencia con código GERENCIA-KPE-2026.,,
+Q-045,2026-10-30T09:50:00-06:00,V-014,compras.rapidas05@mailbox.test,0.00,9500000,staff,sold,Cliente consultó por WhatsApp.,Jorge Ureña,2026-10-30T10:15:00-06:00

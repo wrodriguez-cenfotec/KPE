@@ -1,0 +1,301 @@
+id,started_at,src_ip,user_agent,user_id,role
+ch_4757f1d6299e,2026-09-14T09:19:46-06:00,198.18.132.143,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_d43ba31ee1a9,2026-09-14T11:55:34-06:00,192.0.2.40,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",69,customer
+ch_fe3d6fde031c,2026-09-14T15:40:22-06:00,192.0.2.243,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_bcb1e3c1b5cb,2026-09-14T17:03:49-06:00,198.18.170.198,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_4a728963db34,2026-09-14T17:51:26-06:00,192.0.2.185,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_93e78f3abef1,2026-09-14T19:24:21-06:00,192.0.2.6,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_00f60737935a,2026-09-15T09:24:17-06:00,192.0.2.248,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",64,customer
+ch_890f4e078a08,2026-09-15T14:29:23-06:00,192.0.2.170,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",62,customer
+ch_ef148bcb2651,2026-09-16T10:16:21-06:00,198.18.198.135,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_3d82400bb8cb,2026-09-16T11:43:44-06:00,198.18.148.115,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_fd5bcec69a40,2026-09-16T12:36:30-06:00,198.18.150.91,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",42,customer
+ch_8dc847c522f3,2026-09-16T13:39:38-06:00,198.18.7.239,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_b41136795cd3,2026-09-17T07:04:31-06:00,198.18.108.12,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_84354882fc9b,2026-09-17T09:44:35-06:00,192.0.2.199,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_c2d1b261aea2,2026-09-17T10:09:11-06:00,198.18.12.150,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",16,customer
+ch_464a8bedf00c,2026-09-17T11:06:22-06:00,198.18.116.68,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_78c4d116e3f7,2026-09-18T10:20:43-06:00,198.18.244.49,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_1960af07e99e,2026-09-18T11:33:43-06:00,192.0.2.220,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",41,customer
+ch_4403f546de63,2026-09-18T11:34:37-06:00,198.18.172.116,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",20,customer
+ch_aa6e3e55ec2a,2026-09-18T12:38:49-06:00,198.18.204.152,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",69,customer
+ch_bc791fc644f4,2026-09-18T13:29:28-06:00,198.18.249.83,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",33,customer
+ch_ad8fe72c9792,2026-09-18T13:39:03-06:00,198.18.129.212,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",64,customer
+ch_b6bd2d303cc0,2026-09-18T14:05:24-06:00,198.18.102.2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",51,customer
+ch_2621258dc39c,2026-09-18T14:35:50-06:00,198.18.35.83,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",19,customer
+ch_343491ca89f6,2026-09-18T15:18:42-06:00,198.18.111.49,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",6,customer
+ch_2784c52e4f42,2026-09-18T16:58:03-06:00,192.0.2.227,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_bb8f3d09f8a3,2026-09-18T18:10:51-06:00,192.0.2.69,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",5,customer
+ch_93f4e14c9b96,2026-09-18T19:09:03-06:00,192.0.2.26,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_b5c551464315,2026-09-19T09:00:03-06:00,198.18.233.228,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_6e055ab61ddd,2026-09-19T09:57:22-06:00,192.0.2.92,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_f89a79b6092b,2026-09-19T12:14:18-06:00,198.18.127.222,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_bb8806fe1e35,2026-09-19T12:38:34-06:00,192.0.2.134,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",12,customer
+ch_7109a82714ea,2026-09-19T13:14:10-06:00,192.0.2.210,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_112b273b1e0f,2026-09-19T14:20:51-06:00,198.18.34.103,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_6cb387919178,2026-09-19T15:54:40-06:00,192.0.2.232,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_1bf2588bd9c8,2026-09-19T16:26:17-06:00,192.0.2.50,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_f849d086fbca,2026-09-19T16:42:18-06:00,198.18.213.240,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_3612162c67c6,2026-09-19T21:19:54-06:00,198.18.154.75,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_08394cd03787,2026-09-20T12:17:58-06:00,198.18.165.39,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",18,customer
+ch_cc207e4c5442,2026-09-20T12:24:31-06:00,192.0.2.43,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",65,customer
+ch_4289d9726d51,2026-09-20T12:36:08-06:00,192.0.2.206,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_83c11fb18509,2026-09-20T13:31:35-06:00,198.18.155.111,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_c21ed8fb775f,2026-09-20T15:29:11-06:00,192.0.2.248,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_631b1d9c1f5d,2026-09-20T16:43:25-06:00,198.18.171.200,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_5ca665a69386,2026-09-20T18:51:20-06:00,192.0.2.131,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_84c99762d470,2026-09-21T13:04:07-06:00,198.18.10.143,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_06d57b6755a0,2026-09-21T13:35:37-06:00,198.18.121.61,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",63,customer
+ch_75b6d4c5e8ed,2026-09-21T14:05:15-06:00,198.18.148.60,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_37ae7cc3f481,2026-09-21T15:07:10-06:00,192.0.2.191,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",70,customer
+ch_6fe364bf220b,2026-09-21T18:00:00-06:00,198.18.190.190,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_79df33eca299,2026-09-21T19:27:11-06:00,198.18.16.121,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",16,customer
+ch_4730cbafc3cf,2026-09-21T19:54:37-06:00,192.0.2.45,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_c3d524367ea7,2026-09-21T19:57:56-06:00,192.0.2.113,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_025eabc59db9,2026-09-22T08:53:33-06:00,192.0.2.210,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",24,customer
+ch_d7529be12c22,2026-09-22T12:19:52-06:00,192.0.2.40,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_86ec00ed0cf1,2026-09-22T12:22:17-06:00,198.18.92.87,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",15,customer
+ch_a71afac4420d,2026-09-22T12:31:29-06:00,192.0.2.145,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",14,customer
+ch_d119de4f2abe,2026-09-22T14:20:52-06:00,192.0.2.176,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_8eb603f2795c,2026-09-22T15:29:22-06:00,192.0.2.36,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_f7de2eb134a0,2026-09-22T16:06:38-06:00,192.0.2.87,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_79088d0a5cae,2026-09-22T16:10:43-06:00,198.18.220.165,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_0e9b939f08fe,2026-09-23T10:21:52-06:00,192.0.2.42,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_8b31ac7fb2ce,2026-09-23T10:30:55-06:00,192.0.2.236,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",2,customer
+ch_b8990bb644db,2026-09-23T14:48:30-06:00,192.0.2.119,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",21,customer
+ch_de5181be886c,2026-09-23T16:49:36-06:00,198.18.148.72,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_d8c01b54aa76,2026-09-23T17:25:22-06:00,192.0.2.8,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_c3b1e4a76517,2026-09-24T09:10:52-06:00,192.0.2.98,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_85c4271c2700,2026-09-24T10:07:06-06:00,192.0.2.49,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_f1120c82cfab,2026-09-24T12:37:05-06:00,198.18.194.170,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",31,customer
+ch_f4326bd95d37,2026-09-24T13:26:50-06:00,192.0.2.64,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_e2b1d1b61126,2026-09-24T14:07:02-06:00,192.0.2.193,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_dcc162c2f160,2026-09-24T14:15:36-06:00,198.18.23.108,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_e89eda97768c,2026-09-24T14:33:03-06:00,198.18.207.134,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_bda16734eff8,2026-09-25T10:43:57-06:00,192.0.2.196,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_ae26e4926c71,2026-09-25T13:03:50-06:00,192.0.2.142,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_b76d0ae92b49,2026-09-25T14:59:35-06:00,192.0.2.112,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",53,customer
+ch_53d2b4718e3a,2026-09-25T15:10:49-06:00,192.0.2.254,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_8a8bfba4abe3,2026-09-25T15:17:18-06:00,192.0.2.36,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_5951361e7d5d,2026-09-25T19:47:33-06:00,192.0.2.20,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",30,customer
+ch_cd07ccdbbc25,2026-09-25T20:47:48-06:00,198.18.46.228,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",23,customer
+ch_59d4a173ff03,2026-09-26T08:44:47-06:00,198.18.6.161,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_0fd7f17b2c38,2026-09-26T13:36:11-06:00,192.0.2.39,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_534694f180e7,2026-09-26T14:13:07-06:00,198.18.91.207,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_65d629c7c533,2026-09-26T14:41:30-06:00,198.18.102.178,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",12,customer
+ch_a3796cc35cf0,2026-09-26T15:06:43-06:00,198.18.12.40,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_99d5e7a6a36e,2026-09-26T16:20:23-06:00,198.18.247.71,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",24,customer
+ch_8b98f72b3eb8,2026-09-26T18:14:04-06:00,192.0.2.40,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_f9c3c9e6235f,2026-09-26T19:13:54-06:00,198.18.182.43,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_e602e7902af4,2026-09-27T09:01:00-06:00,192.0.2.161,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_3069e4b14572,2026-09-27T10:40:17-06:00,198.18.130.236,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_db3a3746d127,2026-09-27T12:29:35-06:00,198.18.99.199,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_95dd2af155b4,2026-09-27T15:46:52-06:00,198.18.86.83,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_d3adc5e6f2a6,2026-09-27T16:06:01-06:00,192.0.2.185,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",33,customer
+ch_643597daeb17,2026-09-27T16:37:54-06:00,198.18.9.1,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_cfe76a74873a,2026-09-27T17:02:25-06:00,192.0.2.131,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_57b5063e8584,2026-09-27T17:08:43-06:00,192.0.2.193,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_8ff8224a8df6,2026-09-27T18:27:49-06:00,192.0.2.140,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_9133ccb6c019,2026-09-27T19:29:32-06:00,198.18.208.220,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_6356a5c56850,2026-09-28T12:14:47-06:00,192.0.2.50,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_2623dac92809,2026-09-28T13:04:07-06:00,198.18.51.81,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",40,customer
+ch_153eaeabc2cf,2026-09-28T13:37:19-06:00,198.18.242.233,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_00a38b5c3423,2026-09-28T14:26:31-06:00,192.0.2.20,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",45,customer
+ch_7220ea0d4681,2026-09-28T19:26:39-06:00,198.18.177.7,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",5,customer
+ch_0cce4e6ac63e,2026-09-29T09:22:34-06:00,198.18.130.161,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",21,customer
+ch_a8ed6a1eda9d,2026-09-29T11:09:17-06:00,198.18.162.74,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",22,customer
+ch_51239137ba01,2026-09-29T14:03:06-06:00,192.0.2.76,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",26,customer
+ch_02e08c3a9291,2026-09-29T14:30:52-06:00,198.18.0.136,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",31,customer
+ch_97b3a12455f7,2026-09-29T16:42:54-06:00,192.0.2.13,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",51,customer
+ch_ae2477a84cbd,2026-09-30T11:44:20-06:00,192.0.2.243,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_914ab71b457f,2026-09-30T12:28:06-06:00,198.18.119.127,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",68,customer
+ch_d9e412129685,2026-09-30T14:26:22-06:00,198.18.184.176,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_11d71a12f7ee,2026-09-30T14:50:18-06:00,198.18.30.24,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_2d46f3f03bd9,2026-09-30T15:48:16-06:00,198.18.245.134,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_0bbc539af648,2026-09-30T16:08:23-06:00,192.0.2.175,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",61,customer
+ch_882461fb58d8,2026-09-30T16:28:35-06:00,192.0.2.120,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_5d4f13b5338c,2026-09-30T16:34:45-06:00,198.18.141.14,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_417ce39240e1,2026-09-30T17:53:20-06:00,198.18.170.128,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_8bfee148d4a3,2026-10-01T10:49:56-06:00,192.0.2.21,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_cf1e9771ab40,2026-10-01T11:01:47-06:00,198.18.189.63,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_808c3dce7f74,2026-10-01T14:20:24-06:00,192.0.2.27,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",9,customer
+ch_4f444a0aeec4,2026-10-01T16:02:19-06:00,192.0.2.245,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_71b6455379d8,2026-10-01T17:26:57-06:00,192.0.2.207,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_c61e50a70399,2026-10-01T19:04:04-06:00,198.18.145.168,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",51,customer
+ch_16f58cd0746b,2026-10-02T11:17:23-06:00,198.18.78.232,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",21,customer
+ch_e719af4e990f,2026-10-02T11:31:19-06:00,198.18.112.162,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_17a099a5c26c,2026-10-02T12:13:32-06:00,192.0.2.64,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",45,customer
+ch_b6dbf231a28a,2026-10-02T12:21:07-06:00,192.0.2.235,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_b8b13e76128c,2026-10-02T14:20:24-06:00,192.0.2.95,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_5d92866dcde8,2026-10-02T16:30:54-06:00,198.18.185.95,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_9bf48d6e0a90,2026-10-02T16:40:24-06:00,192.0.2.136,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",43,customer
+ch_181126bc8a8b,2026-10-02T18:03:23-06:00,198.18.25.68,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",7,customer
+ch_f775d3ed8052,2026-10-03T11:59:06-06:00,198.18.21.227,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_0dc5f9cfb457,2026-10-03T13:33:15-06:00,192.0.2.79,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",57,customer
+ch_6e29287df93b,2026-10-03T15:48:09-06:00,192.0.2.93,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",27,customer
+ch_475bc61dc392,2026-10-03T21:23:40-06:00,198.18.121.151,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",21,customer
+ch_bca400ad3572,2026-10-04T10:29:44-06:00,198.18.248.201,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",38,customer
+ch_3842accf832a,2026-10-04T13:09:25-06:00,198.18.1.75,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_35594a58ba46,2026-10-04T14:35:30-06:00,198.18.252.224,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_6ec12c738a93,2026-10-04T14:52:28-06:00,192.0.2.218,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",67,customer
+ch_6d845af8a81d,2026-10-04T15:47:38-06:00,198.18.252.149,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_e4210c01a841,2026-10-04T20:49:51-06:00,198.18.61.124,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_312ad7b91f0e,2026-10-05T09:59:08-06:00,198.18.19.161,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_90c6ff0d8ca7,2026-10-05T10:03:33-06:00,198.18.60.52,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",64,customer
+ch_dbd5c092a78b,2026-10-05T11:26:03-06:00,198.18.24.103,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",25,customer
+ch_0e2fab5123e5,2026-10-05T13:42:17-06:00,198.18.24.82,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_6b96f04124c6,2026-10-05T13:52:58-06:00,192.0.2.169,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_ba9110dfa89f,2026-10-05T15:52:20-06:00,198.18.98.123,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",16,customer
+ch_9aee3c4a2ab8,2026-10-05T15:54:04-06:00,192.0.2.28,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",50,customer
+ch_d3e902644918,2026-10-06T09:03:54-06:00,192.0.2.249,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",31,customer
+ch_d681eb5e6951,2026-10-06T10:10:29-06:00,198.18.136.71,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",20,customer
+ch_1c841f4d112c,2026-10-06T14:08:29-06:00,198.18.183.200,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_88507da2bdc3,2026-10-06T14:54:19-06:00,198.18.193.244,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",33,customer
+ch_dd711ec7e6cb,2026-10-07T07:43:56-06:00,198.18.234.114,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_6d4389b92f85,2026-10-07T11:44:19-06:00,192.0.2.115,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",65,customer
+ch_cc298875e962,2026-10-07T13:29:36-06:00,192.0.2.47,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_93dd62455a3b,2026-10-07T15:11:49-06:00,198.18.149.7,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",60,customer
+ch_c14545cf1cea,2026-10-07T15:37:53-06:00,198.18.170.44,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",62,customer
+ch_389cc55478f9,2026-10-07T19:14:04-06:00,198.18.129.96,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_b9c18abb8c7b,2026-10-07T20:51:23-06:00,198.18.129.204,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",50,customer
+ch_34278705df6b,2026-10-08T08:01:15-06:00,198.18.162.80,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_e95db67b9b8e,2026-10-08T09:14:46-06:00,198.18.135.64,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",69,customer
+ch_a06c8556bb23,2026-10-08T12:23:22-06:00,198.18.168.114,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",58,customer
+ch_69bf8c81d156,2026-10-09T14:00:09-06:00,192.0.2.155,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",20,customer
+ch_175462e05ec5,2026-10-09T15:05:40-06:00,192.0.2.10,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_be656c5b8ed9,2026-10-09T19:15:11-06:00,198.18.251.234,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_ee92db3acb70,2026-10-10T09:32:12-06:00,192.0.2.108,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",65,customer
+ch_669d60f937c9,2026-10-10T10:10:56-06:00,198.18.192.79,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_4c0bde5da96f,2026-10-10T14:10:22-06:00,192.0.2.47,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",13,customer
+ch_aac542bc844f,2026-10-10T14:23:30-06:00,198.18.200.70,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_9326d4001f3a,2026-10-10T14:37:32-06:00,192.0.2.160,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_fc2914999a17,2026-10-10T20:10:44-06:00,198.18.211.157,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",44,customer
+ch_e0991a48e5ed,2026-10-11T11:50:02-06:00,198.18.214.113,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_d98baee0613e,2026-10-11T13:10:05-06:00,192.0.2.237,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",69,customer
+ch_b5645e8dfc99,2026-10-11T14:19:35-06:00,192.0.2.67,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_41a530e6743c,2026-10-11T15:37:57-06:00,198.18.41.36,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",4,customer
+ch_005ed3944656,2026-10-11T19:18:03-06:00,192.0.2.92,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_1253e3ac2850,2026-10-11T20:58:36-06:00,198.18.196.169,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",45,customer
+ch_812717d8c192,2026-10-11T21:46:37-06:00,198.18.10.199,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_bfcc645d834a,2026-10-12T14:00:28-06:00,198.18.51.57,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_2f6c2bb33bdf,2026-10-12T18:34:08-06:00,198.18.47.92,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",30,customer
+ch_7f106313eff8,2026-10-13T11:33:58-06:00,198.18.109.32,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_5842d69a0228,2026-10-13T11:58:26-06:00,198.18.132.206,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_d01a1fdec9cb,2026-10-13T12:47:46-06:00,198.18.228.125,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",2,customer
+ch_5aea44348103,2026-10-13T14:33:02-06:00,192.0.2.137,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_66986d36035c,2026-10-13T14:58:34-06:00,198.18.144.211,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_5038e9334fd0,2026-10-13T15:47:29-06:00,192.0.2.134,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_999c6e664643,2026-10-13T15:59:10-06:00,198.18.64.149,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_d5a2de848343,2026-10-14T11:42:02-06:00,192.0.2.12,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",43,customer
+ch_e49682cbd91b,2026-10-14T12:53:32-06:00,192.0.2.176,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",65,customer
+ch_7e44011092e9,2026-10-14T14:29:44-06:00,198.18.123.47,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",27,customer
+ch_f371f7b082eb,2026-10-15T09:06:10-06:00,198.18.11.206,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_b59afb15c1e9,2026-10-15T11:32:11-06:00,192.0.2.111,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",55,customer
+ch_f31c5d55a3e5,2026-10-15T14:35:36-06:00,198.18.252.188,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_4d01a923c963,2026-10-15T15:53:09-06:00,192.0.2.150,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_9d85d8dad964,2026-10-15T16:35:17-06:00,198.18.55.75,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",4,customer
+ch_6defc8479e1c,2026-10-15T17:49:59-06:00,192.0.2.25,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",57,customer
+ch_66451c97339e,2026-10-15T20:52:24-06:00,198.18.186.75,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_708454209695,2026-10-16T17:27:15-06:00,198.18.67.109,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_b78a13413bfc,2026-10-16T19:34:38-06:00,198.18.40.125,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_17aa4e3e41f1,2026-10-17T10:26:01-06:00,198.18.243.80,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",14,customer
+ch_508a88f07e5e,2026-10-17T12:31:39-06:00,198.18.182.48,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",64,customer
+ch_28f076120e79,2026-10-17T13:35:40-06:00,192.0.2.60,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",53,customer
+ch_5a384de71e3b,2026-10-17T14:36:12-06:00,198.18.253.72,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",45,customer
+ch_7288ba0b2f5e,2026-10-17T18:47:14-06:00,192.0.2.43,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",38,customer
+ch_d1246dfcdf7b,2026-10-18T09:44:55-06:00,198.18.197.223,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",5,customer
+ch_f28244fcaa6f,2026-10-18T15:02:31-06:00,198.18.200.120,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_470adf69cc91,2026-10-19T09:49:58-06:00,192.0.2.73,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",17,customer
+ch_42f12096b923,2026-10-19T11:07:26-06:00,198.18.140.70,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_4c23360b92c2,2026-10-19T11:22:45-06:00,192.0.2.61,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_a0eed7953003,2026-10-19T11:37:37-06:00,192.0.2.92,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",65,customer
+ch_6b364a2de40e,2026-10-19T13:43:34-06:00,192.0.2.124,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_3bb168f101c8,2026-10-19T14:34:19-06:00,198.18.213.245,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_fa6616a6f9aa,2026-10-19T15:17:59-06:00,198.18.156.250,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_05d4572290ce,2026-10-19T18:42:55-06:00,192.0.2.13,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_1707ee30d9f1,2026-10-19T21:33:01-06:00,198.18.70.100,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_7e37c21301a5,2026-10-20T09:38:02-06:00,198.18.43.6,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_21d8d88d644e,2026-10-20T10:04:50-06:00,198.18.253.190,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",43,customer
+ch_91ddaf141e06,2026-10-20T10:37:33-06:00,198.18.49.227,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_cf4769906d0e,2026-10-20T12:36:15-06:00,192.0.2.213,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",18,customer
+ch_8414a412601f,2026-10-20T12:39:38-06:00,198.18.118.174,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",22,customer
+ch_32b273fccaad,2026-10-20T12:45:49-06:00,192.0.2.12,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_1575c3d8ef58,2026-10-20T13:04:21-06:00,192.0.2.58,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_e7ab02816367,2026-10-20T16:48:21-06:00,198.18.180.108,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",69,customer
+ch_e5d34a29b1e3,2026-10-21T08:02:32-06:00,192.0.2.137,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",2,customer
+ch_fcf0514215c5,2026-10-21T11:42:22-06:00,192.0.2.45,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",63,customer
+ch_6039da733744,2026-10-21T14:31:33-06:00,198.18.143.231,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_c94f5f155642,2026-10-21T14:47:01-06:00,198.18.205.147,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_e080001dcb18,2026-10-21T16:39:02-06:00,192.0.2.165,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",9,customer
+ch_15347aa8cf3e,2026-10-21T17:52:06-06:00,198.18.128.169,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",46,customer
+ch_ec90495c202b,2026-10-21T21:59:49-06:00,192.0.2.55,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",42,customer
+ch_53b172c576be,2026-10-22T07:12:00-06:00,192.0.2.31,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",42,customer
+ch_85cb6f3150d1,2026-10-22T11:10:33-06:00,198.18.152.132,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_c99f9d1d9719,2026-10-22T20:33:09-06:00,192.0.2.182,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_bc226e7d2410,2026-10-23T10:23:21-06:00,198.18.178.88,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",14,customer
+ch_61c9ebfc81c6,2026-10-23T10:46:35-06:00,192.0.2.198,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_caf287a2a297,2026-10-23T13:23:43-06:00,192.0.2.205,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_41fd9a1d46ef,2026-10-23T13:47:29-06:00,192.0.2.61,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_77e8cc536ae0,2026-10-23T14:46:17-06:00,198.18.112.80,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",4,customer
+ch_3e7d25b63c05,2026-10-23T15:40:29-06:00,198.18.209.124,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_d112cf761087,2026-10-23T18:05:44-06:00,198.18.46.164,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_42e12455c3c8,2026-10-24T08:02:17-06:00,198.18.94.195,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_5107358fad55,2026-10-24T17:22:21-06:00,198.18.40.17,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",13,customer
+ch_ba29361e39bc,2026-10-24T20:48:47-06:00,192.0.2.17,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_9d3a3bc8d8de,2026-10-24T21:55:16-06:00,192.0.2.158,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",38,customer
+ch_dc24c2e8090e,2026-10-25T08:57:53-06:00,192.0.2.176,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",13,customer
+ch_23cb6fa0337f,2026-10-25T11:28:39-06:00,198.18.9.245,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_d9b26d9a98fd,2026-10-25T13:51:20-06:00,198.18.242.70,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_10290dda4523,2026-10-25T18:28:15-06:00,198.18.233.107,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",11,customer
+ch_7da3e3525f79,2026-10-25T18:48:52-06:00,198.18.116.189,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_8fc0f7802803,2026-10-26T11:05:26-06:00,192.0.2.162,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_a68d0352da1c,2026-10-26T12:04:25-06:00,192.0.2.164,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_517320986a88,2026-10-26T15:19:00-06:00,192.0.2.91,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_998d37ad3b69,2026-10-26T15:36:23-06:00,192.0.2.141,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_ea16da47fdd6,2026-10-26T21:00:23-06:00,192.0.2.237,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",11,customer
+ch_a1f04c7e2b19,2026-10-26T23:12:00-06:00,203.0.113.77,Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,,visitor
+ch_a2b7d93e0c41,2026-10-27T02:05:00-06:00,203.0.113.77,Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,,visitor
+ch_ade9fa05e3b8,2026-10-27T07:21:02-06:00,192.0.2.200,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_6e9f63d2e717,2026-10-27T11:29:51-06:00,198.18.225.197,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",61,customer
+ch_5410dc28daa9,2026-10-27T12:07:05-06:00,192.0.2.168,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",15,customer
+ch_14871310daac,2026-10-27T13:33:01-06:00,198.18.47.3,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",14,customer
+ch_2fea8e7f3eb9,2026-10-27T14:37:50-06:00,198.18.12.237,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",62,customer
+ch_e1cc89a3c6fe,2026-10-27T15:30:40-06:00,198.18.75.2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",69,customer
+ch_5315cbf0982f,2026-10-27T17:02:42-06:00,198.18.4.132,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",29,customer
+ch_88003ddda45d,2026-10-27T20:20:15-06:00,192.0.2.45,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_a3c58e1f7d02,2026-10-28T00:20:00-06:00,198.51.100.23,Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,,visitor
+ch_5824b7d9a3f4,2026-10-28T10:05:53-06:00,198.18.52.249,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_6c38f7739f0e,2026-10-28T13:52:46-06:00,198.18.231.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",3,customer
+ch_e8fa77935d69,2026-10-28T15:33:04-06:00,198.18.40.187,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_8293069d91ef,2026-10-28T16:59:44-06:00,198.18.205.66,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",36,customer
+ch_a4d61a2c9e83,2026-10-28T23:00:00-06:00,203.0.113.77,Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,,visitor
+ch_a5e29b4f1a76,2026-10-28T23:40:00-06:00,203.0.113.77,python-requests/2.32.3,,visitor
+ch_a6f83c5d2b17,2026-10-29T01:10:00-06:00,203.0.113.77,python-requests/2.32.3,,visitor
+ch_da89f1468982,2026-10-29T03:18:20-06:00,198.18.24.115,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",8,customer
+ch_de158b227bae,2026-10-29T09:35:09-06:00,198.18.67.50,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_04d4a5008e8d,2026-10-29T10:46:30-06:00,198.18.236.9,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",65,customer
+ch_591dabddd67a,2026-10-29T13:03:17-06:00,198.18.142.42,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_5b3da3d321bb,2026-10-29T13:03:32-06:00,198.18.172.75,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_2382bfc96e5f,2026-10-29T16:43:53-06:00,198.18.208.65,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",10,customer
+ch_a7a14d6e3c58,2026-10-29T23:05:00-06:00,203.0.113.77,Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,,visitor
+ch_e415bfba4e5f,2026-10-30T06:09:26-06:00,198.18.143.234,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",32,customer
+ch_5a530a9d1439,2026-10-30T11:09:56-06:00,192.0.2.74,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_dbbb7edd678a,2026-10-30T13:12:43-06:00,192.0.2.43,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_4688b8cef7e2,2026-10-30T13:17:11-06:00,192.0.2.20,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",68,customer
+ch_07bcf2f804bf,2026-10-30T16:07:27-06:00,192.0.2.29,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor
+ch_14de0ad3cf6e,2026-10-30T19:35:00-06:00,198.18.237.133,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",37,customer
+ch_651108b13429,2026-10-30T20:24:28-06:00,198.18.191.27,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_e252058b785a,2026-10-31T09:00:33-06:00,198.18.15.247,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",48,customer
+ch_8f25427f6d50,2026-10-31T12:31:35-06:00,198.18.150.162,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",22,customer
+ch_2c517686bcc4,2026-10-31T14:39:01-06:00,192.0.2.84,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_d12d6ee4ebda,2026-10-31T16:07:28-06:00,198.18.188.209,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_8efe5308cf11,2026-10-31T22:26:06-06:00,198.18.27.93,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",52,customer
+ch_0c3dd5f86ba3,2026-11-01T08:46:38-06:00,198.18.189.28,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",49,customer
+ch_322f96fd2ebb,2026-11-01T11:51:40-06:00,198.18.254.49,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",59,customer
+ch_197adb4f0c05,2026-11-01T14:54:54-06:00,198.18.81.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_34a724380c4b,2026-11-01T16:15:31-06:00,192.0.2.206,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",,visitor
+ch_780d8bb8f88e,2026-11-01T19:33:28-06:00,192.0.2.131,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",,visitor
+ch_d2cb36495e54,2026-11-02T01:17:13-06:00,198.18.80.142,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",66,customer
+ch_630d133febd6,2026-11-02T08:37:46-06:00,192.0.2.210,"Mozilla/5.0 (Linux; Android 14; SM-A546E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36",,visitor
+ch_9c8af080e116,2026-11-02T10:52:27-06:00,192.0.2.10,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",,visitor
+ch_e3931976ca62,2026-11-02T12:43:37-06:00,198.18.164.124,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",,visitor

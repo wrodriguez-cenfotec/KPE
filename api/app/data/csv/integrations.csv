@@ -1,0 +1,3 @@
+id,provider,endpoint,api_key,notes
+1,Repuestos Ticos,https://api.repuestos-ticos.test/v2,rt_live_cdffd5dd8ca8126c0482ba994814b901,Consulta de precios y pedidos de repuestos
+2,Mensajería WhatsApp Business,https://api.mensajeria-wa.test/v1,wa_87b810070b7c739690268360ea39242936878701,Envío de recordatorios de citas

@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+psycopg[binary,pool]
+pgvector
+httpx
+mcp
+pytest
