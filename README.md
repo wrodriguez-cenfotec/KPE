@@ -223,7 +223,6 @@ Después de cambiar `.env`, ejecuten `docker compose up -d` otra vez.
 | Sitio público | http://127.0.0.1:8080 | Libre. Guachimán está en el botón con su foto, en la esquina inferior derecha |
 | Cuenta de cliente | http://127.0.0.1:8080/login.html | Con una de las cuentas de abajo |
 | Gestión (personal de KPE) | http://127.0.0.1:8080/staff/ | Contraseña del equipo `KPE-Gestion-2026` |
-| API | http://127.0.0.1:8000 | La misma aplicación, sin pasar por nginx |
 
 Cuentas de clientes de prueba.
 
